@@ -5,3 +5,4 @@ chromadb>=0.6.3
 pandas
 python-dotenv
 protobuf==3.20.1
+pysqlite3-binary>=0.5.1
